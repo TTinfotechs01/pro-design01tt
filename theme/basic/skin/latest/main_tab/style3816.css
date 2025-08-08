@@ -1,0 +1,6 @@
+/* Placeholder stylesheet to replace missing upstream style.css
+   This prevents 404s from breaking CSS load sequence after mirroring.
+   Add real rules here if the original becomes available. */
+
+/* Example minimal scope to avoid accidental overrides */
+:root {}
