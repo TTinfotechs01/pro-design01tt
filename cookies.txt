@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+miwonsc.com	TRUE	/	FALSE	1999999999	PHPSESSID	mbe92cqtijjb1qik3bs9l0ldr1
+miwonsc.com	TRUE	/	FALSE	1999999999	2a0d2363701f23f8a75028924a3af643	NDkuMzcuMTE1LjI1MQ%3D%3D
+miwonsc.com	TRUE	/	FALSE	1999999999	cookie_content	set_80981349.37.115.251
+
